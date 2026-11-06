@@ -1,0 +1,9 @@
+fz,ap,Vc,vb,C,Actual Quality,Predicted Quality
+0.0,0.0,0.0,0,0,Low,Low
+0.0,0.0,0.0,0,0,Medium,Low
+1.0,-1.0,1.0,1,1,High,Medium
+-1.0,-1.0,1.0,-1,-1,Low,Low
+1.0,1.0,-1.0,-1,1,High,High
+-1.0,1.0,-1.0,-1,1,Low,Low
+1.0,-1.0,-1.0,1,-1,High,High
+0.0,1.682,0.0,0,0,Medium,Low
